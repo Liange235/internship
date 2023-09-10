@@ -1,45 +1,11 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+# 机架配置
 
-# VAE-DGP
+![图片描述](https://liange235.github.io/Intermediate-results/机架配置)
 
-![图片描述](https://liange235.github.io/Intermediate-results/VAE-DGP4.png)
+# 2023上海市浦东新区sjj暑期实习主要完成以下四方面
+- 部署本地机架服务器并负责Ubuntu系统运行维护、MySQL、SQL Server数据库和cuda编译环境搭建。
+- 在本地安装LangChain平台，研究基于ChatGLM2-6B和Llama 2的审计知识库、通用自然语言查询数据库和领域大模型微调的工作。
+- 利用Python、OpenCV、Tesseract OCR等技术对某镇企业税收数据可视化分析；对某局金融核查报告通过大模型智能判断和定位疑点议题以及精确提取汇总原文档的关键字段和表格信息。
+- 积极参与上海市浦东新区第三届大数据审计技能大赛和第九届审计开放日的组织保障工作。
 
-Code, models and data for the paper ["Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs
-Supplementary Material"](https://ieeexplore.ieee.org/document/10093135).
-
-# Supporting information
-The animated plotted results are too large to append here. So we upload the zip file to the Google Drive(https://drive.google.com/file/d/12Q0XIJyz3zHpquO3cS-OUt3deAYGALJk/view?usp=sharing)
-
-We have also [released a dataset] in the folder Data for researchers to study their behaviors.
-
-## Installation
-
-**Requirements**:
-- Python >= 3.8
-- PyTorch >= 1.12
-
-### Work with us
-
-Please [let us know a1714170867@163.com] if you’re doing interesting research with or working on applications of Gaussian Process!  We’re especially interested in hearing from and potentially working with those who are studying
-- Statistical analysis
-- The extent of extrapolation performance in GP
-- Some other applications in numerical analysis using GP
-
-## Citation
-
-Please use the following bibtex entry:
-```
-@ARTICLE{10093135,
-  author={Tang, Jiawei and Lin, Xiaowen and Zhao, Fei and Chen, Xi},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={Industrial Data Modeling with Low-Dimensional Inputs and High-Dimensional Outputs}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-9},
-  doi={10.1109/TII.2023.3264631}}
-```
-
-## Future work
-
-We are still considering the integration with GP and other traditional numerical methods.
+# 考虑到经责报告、企业税收和三重一大等不可公开性，本仓库仅提供代码相关不涉密的部分
