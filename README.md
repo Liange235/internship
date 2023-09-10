@@ -1,6 +1,6 @@
 # 机架配置
 
-![图片描述](https://liange235.github.io/Intermediate-results/机架配置)
+![图片描述](https://liange235.github.io/Intermediate-results/机架配置.jpg)
 
 # 2023上海市浦东新区sjj暑期实习主要完成以下四方面
 - 部署本地机架服务器并负责Ubuntu系统运行维护、MySQL、SQL Server数据库和cuda编译环境搭建。
